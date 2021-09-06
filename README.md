@@ -1,5 +1,5 @@
-Hi, my name is Fabio Faria.
-This is my GitHub Profile.
+###Hi, my name is Fabio Faria.
+###This is my GitHub Profile.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
