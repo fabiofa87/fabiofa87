@@ -1,7 +1,7 @@
 # Hi, my name is Fabio Faria.
 ## This is my GitHub Profile.
 
-[![Fabiofa87 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofa87)](https://github.com/anuraghazra/github-readme-stats)
+![Fabiofa87 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofa87&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
