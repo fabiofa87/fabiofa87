@@ -1,12 +1,6 @@
 # Hi, my name is Fabio Faria.
 ## This is my GitHub Profile.
 
-<a href="https://github.com/fabiofa87/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiofa87&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/fabiofa87/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiofa87&repo=convoychat" />
-</a>
 
 
 ![Fabiofa87 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofa87&show_icons=true&theme=dracula)
