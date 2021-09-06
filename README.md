@@ -1,11 +1,8 @@
 # Hi, my name is Fabio Faria.
 ## This is my GitHub Profile.
 
-START_SECTION:waka
-```text
+[![Fabiofa87 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofa87)](https://github.com/anuraghazra/github-readme-stats)
 
-```
-END_SECTION:waka
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiofa87&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
