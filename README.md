@@ -7,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Fabiofa87 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabiofa87)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fabiofa87.id)
