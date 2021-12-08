@@ -15,7 +15,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87)](https://github.com/fabiofa87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87&langs_count=8)](https://github.com/fabiofa87/github-readme-stats)
+
 
 
 
