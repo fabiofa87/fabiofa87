@@ -15,7 +15,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/langs_count=6/?username=fabiofa87&layout=compact&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87)](https://github.com/fabiofa87/github-readme-stats)
+
 
 
 
