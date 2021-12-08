@@ -2,8 +2,11 @@
 
 
 
-
+<div>
 ![Fabiofa87 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofa87&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br />
 <div>
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -13,7 +16,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofa87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
